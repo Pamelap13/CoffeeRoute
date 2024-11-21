@@ -1,0 +1,289 @@
+[
+    {
+      "id": 1,
+      "nombre": "BREW BIRD COFFEE",
+      "direccion": "El Sol con Irigoeyen, Chaclacayo",
+      "instagram": "@brew_bird_",
+      "imagen": "https://ejemplo.com/imagen1.jpg",
+      "coordenadas": {
+        "latitud": -12.144379,
+        "longitud": -77.021374
+      }
+    },
+    {
+      "id": 2,
+      "nombre": "LA MICAELA",
+      "direccion": "Av. Micaela Bastidas 908, Comas",
+      "instagram": "@lamicaelacoffee",
+      "imagen": "https://ejemplo.com/imagen2.jpg",
+      "coordenadas": {
+        "latitud": -12.116818,
+        "longitud": -77.030186
+      }
+    },
+    {
+      "id": 3,
+      "nombre": "CAFE CULTURA",
+      "direccion": "Av. Lima Sur 752, Chosica",
+      "instagram": "@cafeculturachosica",
+      "imagen": "https://ejemplo.com/imagen3.jpg",
+      "coordenadas": {
+        "latitud": -12.146531,
+        "longitud": -77.022351
+      }
+    },
+    {
+      "id": 4,
+      "nombre": "LA SCIE CAFE",
+      "direccion": "Av. Arnaldo Marquez 1255, Jesus Maria",
+      "instagram": "@lasciecafe",
+      "imagen": "https://ejemplo.com/imagen4.jpg",
+      "coordenadas": {
+        "latitud": -12.144755,
+        "longitud": -77.021876
+      }
+    },
+    {
+      "id": 5,
+      "nombre": "PAUSA CAFE",
+      "direccion": "Av. Horacio Urteaga 1226, Jesus Maria",
+      "instagram": "@pausa_cafe",
+      "imagen": "https://ejemplo.com/imagen5.jpg",
+      "coordenadas": {
+        "latitud": -12.144755,
+        "longitud": -77.021876
+      }
+    },
+    {
+      "id": 6,
+      "nombre": "PUMA CAFE",
+      "direccion": "Av. Arenales 1199, Santa Beatriz, Lima",
+      "instagram": "@pumacafe",
+      "imagen": "https://ejemplo.com/imagen6.jpg",
+      "coordenadas": {
+        "latitud": -12.047461,
+        "longitud": -77.030925
+      }
+    },
+    {
+      "id": 7,
+      "nombre": "AROMA CAFE",
+      "direccion": "Av. Universitaria 1645, Lima",
+      "instagram": "@cafearomalima",
+      "imagen": "https://ejemplo.com/imagen7.jpg",
+      "coordenadas": {
+        "latitud": -12.097292,
+        "longitud": -77.034584
+      }
+    },
+    {
+      "id": 8,
+      "nombre": "PAPU CAFE",
+      "direccion": "Av Paseo de la Republica 2764, Lince",
+      "instagram": "@papucafe.pe",
+      "imagen": "https://ejemplo.com/imagen8.jpg",
+      "coordenadas": {
+        "latitud": -12.144729,
+        "longitud": -77.021646
+      }
+    },
+    {
+      "id": 9,
+      "nombre": "ALQUIMICA CAFE",
+      "direccion": "Av. Santiago Antunez de Mayo 1045, Los Olivos",
+      "instagram": "@alquimiacafeperu",
+      "imagen": "https://ejemplo.com/imagen9.jpg",
+      "coordenadas": {
+        "latitud": -12.144687,
+        "longitud": -77.021885
+      }
+    },
+    {
+      "id": 10,
+      "nombre": "ATIPICAFE",
+      "direccion": "Av. Paseo de la Republica 5840, Miraflores",
+      "instagram": "@atipicafe",
+      "imagen": "https://ejemplo.com/imagen10.jpg",
+      "coordenadas": {
+        "latitud": -12.119995,
+        "longitud": -77.027975
+      }
+    },
+    {
+      "id": 11,
+      "nombre": "COFAINE",
+      "direccion": "Av. Ernesto Diez Canseco 154, Miraflores",
+      "instagram": "@cofaine.pe",
+      "imagen": "https://ejemplo.com/imagen11.jpg",
+      "coordenadas": {
+        "latitud": -12.116224,
+        "longitud": -77.030935
+      }
+    },
+    {
+      "id": 12,
+      "nombre": "ILUSIONISTA ART",
+      "direccion": "Jose Gonzales 473, Miraflores",
+      "instagram": "@ilusionistacoffee",
+      "imagen": "https://ejemplo.com/imagen12.jpg",
+      "coordenadas": {
+        "latitud": -12.116307,
+        "longitud": -77.032482
+      }
+    },
+    {
+      "id": 13,
+      "nombre": "PRAGA CAFE",
+      "direccion": "Jose Toribio Polo 367, Miraflores",
+      "instagram": "@praga_cafe_boutique",
+      "imagen": "https://ejemplo.com/imagen13.jpg",
+      "coordenadas": {
+        "latitud": -12.121644,
+        "longitud": -77.028991
+      }
+    },
+    {
+      "id": 14,
+      "nombre": "OMBU CAFE",
+      "direccion": "Calle Atahualpa 610, Miraflores",
+      "instagram": "@ombu.cafeperu",
+      "imagen": "https://ejemplo.com/imagen14.jpg",
+      "coordenadas": {
+        "latitud": -12.144799,
+        "longitud": -77.021922
+      }
+    },
+    {
+      "id": 15,
+      "nombre": "TERRUA CAFE",
+      "direccion": "Pasaje Tello 163, Miraflores",
+      "instagram": "@terruacafe",
+      "imagen": "https://ejemplo.com/imagen15.jpg",
+      "coordenadas": {
+        "latitud": -12.122794,
+        "longitud": -77.028816
+      }
+    },
+    {
+      "id": 16,
+      "nombre": "MADRE PLANTA",
+      "direccion": "Av. La Paz 134, Miraflores",
+      "instagram": "@madreplanta.pe",
+      "imagen": "https://ejemplo.com/imagen16.jpg",
+      "coordenadas": {
+        "latitud": -12.122281,
+        "longitud": -77.028644
+      }
+    },
+    {
+      "id": 17,
+      "nombre": "MAMAQUILLA",
+      "direccion": "Av. Manuel Valle 1101, Pachacamac",
+      "instagram": "@mamaquilla_tostaduria",
+      "imagen": "https://ejemplo.com/imagen17.jpg",
+      "coordenadas": {
+        "latitud": -12.123299,
+        "longitud": -77.030227
+      }
+    },
+    {
+      "id": 18,
+      "nombre": "AERA CAFE",
+      "direccion": "Barranquilla 341, Pueblo Libre",
+      "instagram": "@cafeaera",
+      "imagen": "https://ejemplo.com/imagen18.jpg",
+      "coordenadas": {
+        "latitud": -12.118851,
+        "longitud": -77.034659
+      }
+    },
+    {
+      "id": 19,
+      "nombre": "GUANACOFFEE",
+      "direccion": "Calle Santa Isabel 140 (Felipe Santiago Ore), Pueblo Libre",
+      "instagram": "@guanacoffee",
+      "imagen": "https://ejemplo.com/imagen19.jpg",
+      "coordenadas": {
+        "latitud": -12.117134,
+        "longitud": -77.034907
+      }
+    },
+    {
+      "id": 20,
+      "nombre": "BARRA CAFETEADORA",
+      "direccion": "Jr. Juan Antonio Arríela 127, Pueblo Libre",
+      "instagram": "@barracafeteadora",
+      "imagen": "https://ejemplo.com/imagen20.jpg",
+      "coordenadas": {
+        "latitud": -12.117984,
+        "longitud": -77.029959
+      }
+    },
+    {
+      "id": 21,
+      "nombre": "SPACE CAFE",
+      "direccion": "Av. Del Ejercito 1922, San Isidro",
+      "instagram": "@spacecafeperu",
+      "imagen": "https://ejemplo.com/imagen19.jpg",
+      "coordenadas": {
+        "latitud": -12.117134,
+        "longitud": -77.034907
+      }
+    },
+    {
+      "id": 22,
+      "nombre": "RED HEAD COFFEE SHOP",
+      "direccion": "Jr. Los Pelitres 1636, Las Flores de Lima, SJL",
+      "instagram": "@readheadcoffeesgop",
+      "imagen": "https://ejemplo.com/imagen19.jpg",
+      "coordenadas": {
+        "latitud": -12.117134,
+        "longitud": -77.034907
+      }
+    },
+    {
+      "id": 23,
+      "nombre": "CHIMOKA CAFE",
+      "direccion": "Calle Agar Manco 360, SJL",
+      "instagram": "@chimokacafe",
+      "imagen": "https://ejemplo.com/imagen19.jpg",
+      "coordenadas": {
+        "latitud": -12.117134,
+        "longitud": -77.034907
+      }
+    },
+    {
+      "id": 24,
+      "nombre": "FRANQUEZA",
+      "direccion": "CC. Plaza San Miguel, entrada Boulevard Mantaro, 2do local",
+      "instagram": "@franqueza_coffee",
+      "imagen": "https://ejemplo.com/imagen19.jpg",
+      "coordenadas": {
+        "latitud": -12.117134,
+        "longitud": -77.034907
+      }
+    },
+    {
+      "id": 25,
+      "nombre": "CAFELINK",
+      "direccion": "Av. Aviacion 4680, Santiago de Surco",
+      "instagram": "@cafelink",
+      "imagen": "https://ejemplo.com/imagen19.jpg",
+      "coordenadas": {
+        "latitud": -12.117134,
+        "longitud": -77.034907
+      }
+    },
+    {
+      "id": 26,
+      "nombre": "TIPICA CAFE BARRA",
+      "direccion": "Av. Pedro Beltran Mz 24 Lt 23 Urb. Satelite, Ventanilla",
+      "instagram": "@tipicafebarra",
+      "imagen": "https://ejemplo.com/imagen19.jpg",
+      "coordenadas": {
+        "latitud": -12.117134,
+        "longitud": -77.034907
+      }
+    }
+  ]
+
